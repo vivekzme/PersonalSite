@@ -40,9 +40,9 @@ p{
 
 }
 .bottomcloud{
-  position: fixed;
-  left: 220px;
-  bottom: 380px;
+  position: absolute;
+  left: 300px;
+  top:90px;
 }
 .topcloud{
   position: absolute;
