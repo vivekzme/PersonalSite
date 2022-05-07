@@ -40,7 +40,7 @@ p{
 
 }
 .bottomcloud{
-  position: absolute;
+  position: fixed;
   left: 220px;
   bottom: 580px;
 }
